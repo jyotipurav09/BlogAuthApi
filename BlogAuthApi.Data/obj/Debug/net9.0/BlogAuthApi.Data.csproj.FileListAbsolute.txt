@@ -1,0 +1,17 @@
+C:\Users\HP\Desktop\GitCheat2\BlogAuthApi\BlogAuthApi.Data\bin\Debug\net9.0\BlogAuthApi.Data.deps.json
+C:\Users\HP\Desktop\GitCheat2\BlogAuthApi\BlogAuthApi.Data\bin\Debug\net9.0\BlogAuthApi.Data.runtimeconfig.json
+C:\Users\HP\Desktop\GitCheat2\BlogAuthApi\BlogAuthApi.Data\bin\Debug\net9.0\BlogAuthApi.Data.dll
+C:\Users\HP\Desktop\GitCheat2\BlogAuthApi\BlogAuthApi.Data\bin\Debug\net9.0\BlogAuthApi.Data.pdb
+C:\Users\HP\Desktop\GitCheat2\BlogAuthApi\BlogAuthApi.Data\bin\Debug\net9.0\BlogAuthApi.Domain.dll
+C:\Users\HP\Desktop\GitCheat2\BlogAuthApi\BlogAuthApi.Data\bin\Debug\net9.0\BlogAuthApi.Domain.pdb
+C:\Users\HP\Desktop\GitCheat2\BlogAuthApi\BlogAuthApi.Data\obj\Debug\net9.0\BlogAuthApi.Data.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\GitCheat2\BlogAuthApi\BlogAuthApi.Data\obj\Debug\net9.0\BlogAuthApi.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\GitCheat2\BlogAuthApi\BlogAuthApi.Data\obj\Debug\net9.0\BlogAuthApi.Data.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\GitCheat2\BlogAuthApi\BlogAuthApi.Data\obj\Debug\net9.0\BlogAuthApi.Data.AssemblyInfo.cs
+C:\Users\HP\Desktop\GitCheat2\BlogAuthApi\BlogAuthApi.Data\obj\Debug\net9.0\BlogAuthApi.Data.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\GitCheat2\BlogAuthApi\BlogAuthApi.Data\obj\Debug\net9.0\BlogAuth.8484DE4A.Up2Date
+C:\Users\HP\Desktop\GitCheat2\BlogAuthApi\BlogAuthApi.Data\obj\Debug\net9.0\BlogAuthApi.Data.dll
+C:\Users\HP\Desktop\GitCheat2\BlogAuthApi\BlogAuthApi.Data\obj\Debug\net9.0\refint\BlogAuthApi.Data.dll
+C:\Users\HP\Desktop\GitCheat2\BlogAuthApi\BlogAuthApi.Data\obj\Debug\net9.0\BlogAuthApi.Data.pdb
+C:\Users\HP\Desktop\GitCheat2\BlogAuthApi\BlogAuthApi.Data\obj\Debug\net9.0\BlogAuthApi.Data.genruntimeconfig.cache
+C:\Users\HP\Desktop\GitCheat2\BlogAuthApi\BlogAuthApi.Data\obj\Debug\net9.0\ref\BlogAuthApi.Data.dll
