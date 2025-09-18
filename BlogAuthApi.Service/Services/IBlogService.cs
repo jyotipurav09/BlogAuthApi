@@ -1,9 +1,8 @@
 ﻿
 
-using BlogAuthApi.Domain;
 using BlogAuthApi.Service.Dtos.Blog;
 
-namespace BlogAuthApi.Service.Interfaces
+namespace BlogAuthApi.Service.Services
 {
     public interface IBlogService
     {
@@ -12,6 +11,5 @@ namespace BlogAuthApi.Service.Interfaces
         Task<BlogDto> CreateAsync(CreateBlogDto dto);
         Task<BlogDto?> UpdateAsync(int id, UpdateBlogDto dto);
         Task<bool> DeleteAsync(int id);
-
     }
 }

@@ -15,6 +15,7 @@ namespace BlogAuthApi.Domain
         public DateTime? UpdatedAt { get; set; } 
 
         public bool IsPublished { get; set; } = true;
+        public Employee? Employee { get; set; }
 
     }
 }

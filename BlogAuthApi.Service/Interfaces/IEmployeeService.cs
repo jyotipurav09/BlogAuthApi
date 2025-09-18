@@ -5,16 +5,18 @@ using BlogAuthApi.Service.Dtos.Auth;
 
 namespace BlogAuthApi.Service.Interfaces
 {
-    public class IEmployeeService
+    public interface IEmployeeService
     {
-        /*Task<IEnumerable<EmployeeResponseDto>> GetAllAsync();
-        Task<EmployeeResponseDto> GetByIdAsync(Guid id);
-        Task<EmployeeResponseDto> UpdateAsync(Guid id, UpdateEmployeeDto dto);
-        Task<bool> ToggleEnableAsync(Guid id, Guid performedBy);
-        Task<bool> ChangeRoleAsync(Guid id, ChangeRoleDto dto);
-*/
+        Task<IEnumerable<EmployeeDto>> GetAllAsync();
+        Task<EmployeeDto?> GetByIdAsync(int id);
+        Task<EmployeeDto> CreateAsync(CreateEmployeeDto dto);
+        Task<EmployeeDto?> UpdateAsync(int id, UpdateEmployeeDto dto);
+        Task<bool> DeleteAsync(int id);
+        Task <bool> ToggleEnabledAsync(int id, bool isEnabled);
+        Task<bool> ChangeRoleAsync(int id, int newRoleId);
     }
-} 
+}
+   
 
     
 
